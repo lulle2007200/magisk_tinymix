@@ -1,0 +1,1 @@
+set_perm /system/bin/tinymix 0 0 0777
